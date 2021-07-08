@@ -96,7 +96,7 @@ def calculate():
 def LogButton(op):
     return tk.Button(font=('Arial',15),text=op,command=Log,bd=5,bg='#92949C')
 
-def perevodB2(op):
+def Bin(op):
     return tk.Button(font=('Arial',15),text=op,command=TranslateIn2,bd=5,bg='#92949C')
 
 def SinButton(op):
@@ -182,7 +182,7 @@ make_operation_buttono('%').grid(row = 1,column = 5,stick='wens',padx=5,pady=5)
 make_calc_button('=').grid(row=4, column=2, stick='wens', padx=5, pady=5)
 make_clear_button('C').grid(row=4, column=1, stick='wens', padx=5, pady=5)
 LogButton('log').grid(row = 3,column = 5,stick='wens',padx=5,pady=5)
-perevodB2('bin').grid(row = 4,column = 5,stick='wens',padx=5,pady=5)
+Bin('bin').grid(row = 4,column = 5,stick='wens',padx=5,pady=5)
 SinButton('sin').grid(row = 1,column = 4,stick='wens',padx=5,pady=5)
 CosButton('cos').grid(row = 2,column = 4,stick='wens',padx=5,pady=5)
 TgButton('tg').grid(row = 3,column = 4,stick='wens',padx=5,pady=5)
