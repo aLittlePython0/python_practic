@@ -1,0 +1,81 @@
+--------------------
+Continent: Europe
+Country: Russia
+New Cases: 24702
+Total Cases: 5833175
+New Deaths: 780
+Total Deaths: 144492
+Total Recovered: 5236214
+--------------------
+Continent: Europe
+Country: France
+New Cases: 0
+Total Cases: 5813899
+New Deaths: 0
+Total Deaths: 111353
+Total Recovered: 5648649
+--------------------
+Continent: Europe
+Country: UK
+New Cases: 36660
+Total Cases: 5191459
+New Deaths: 50
+Total Deaths: 128481
+Total Recovered: 4368126
+--------------------
+Continent: Europe
+Country: Italy
+New Cases: 1534
+Total Cases: 4273693
+New Deaths: 20
+Total Deaths: 127808
+Total Recovered: 4105236
+--------------------
+Continent: Europe
+Country: Spain
+New Cases: 0
+Total Cases: 3971124
+New Deaths: 0
+Total Deaths: 81020
+Total Recovered: 3648438
+--------------------
+Continent: Europe
+Country: Germany
+New Cases: 155
+Total Cases: 3744422
+New Deaths: 1
+Total Deaths: 91775
+Total Recovered: 3635900
+--------------------
+Continent: Europe
+Country: Poland
+New Cases: 96
+Total Cases: 2880959
+New Deaths: 13
+Total Deaths: 75173
+Total Recovered: 2652604
+--------------------
+Continent: Europe
+Country: Ukraine
+New Cases: 481
+Total Cases: 2241698
+New Deaths: 36
+Total Deaths: 52640
+Total Recovered: 2178279
+--------------------
+Continent: Europe
+Country: Netherlands
+New Cases: 7821
+Total Cases: 1744700
+New Deaths: 3
+Total Deaths: 17769
+Total Recovered: 1654978
+--------------------
+Continent: Europe
+Country: Czechia
+New Cases: 239
+Total Cases: 1669745
+New Deaths: 0
+Total Deaths: 30333
+Total Recovered: 1637251
+--------------------
